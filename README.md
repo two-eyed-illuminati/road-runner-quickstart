@@ -1,4 +1,1 @@
-# Road Runner Quickstart
-
-Check out the [docs](https://rr.brott.dev/docs/v1-0/tuning/).
-
+This fork is not meant to be run on its own. Instead, it is meant so that you can copy the contents of TeamCode/src/main/java/org/firstinspires/ftc/teamcode to https://github.com/two-eyed-illuminati/FtcRobotControllerBase to have the newest version of the rr quickstart.
